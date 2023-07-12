@@ -352,7 +352,7 @@ class PMPRO_Roles {
 		?>
 		<hr />
 
-		<h3><?php esc_html_e( 'Role Settings', 'pmpro-roles' ); ?></h3>
+		<h2><?php esc_html_e( 'Role Settings', 'pmpro-roles' ); ?></h2>
 		<p class="description">
 			<?php
 				$allowed_pmpro_roles_description_html = array (
